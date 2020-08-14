@@ -1,0 +1,19 @@
+div.container {
+  position: absolute;
+  right: 0;
+  top: 0;
+  max-width: 360px;
+  padding: 30px;
+  margin-top: 50px;
+  overflow: hidden;
+}
+
+div.toast {
+  position: relative;
+  z-index: 1500;
+}
+
+div.toast-header img {
+  width: 20px;
+  height: 20px;
+}

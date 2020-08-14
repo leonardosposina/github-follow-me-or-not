@@ -1,0 +1,39 @@
+.navbar-virtual-width {
+  width: 100vw;
+}
+
+.nav-brand {
+ font: 400 1rem Roboto;
+}
+
+.user-form-input {
+  min-width: 15rem;
+}
+
+.container-fluid {
+  max-width: 1280px;
+  flex: 1;
+  justify-items: center;
+}
+
+.content-wrapper {
+  height: 90vh;
+}
+
+div.col {
+  padding-top: 4.5rem;
+  margin-top: -4.5rem;
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 767px) {
+  .user-form-input {
+    margin: 0.6rem 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .user-form-button {
+    margin-left: auto !important;
+  }
+}

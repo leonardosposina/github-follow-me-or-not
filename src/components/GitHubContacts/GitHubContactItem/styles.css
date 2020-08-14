@@ -1,0 +1,10 @@
+.media-profile-link {
+  color: var(--color-primary);
+  text-decoration: none !important;
+  cursor: pointer;
+}
+
+.media-profile-item {
+  margin: 0.5rem 0;
+  overflow-x: hidden;
+}

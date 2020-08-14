@@ -1,0 +1,11 @@
+.list-scroll {
+  height: 72vh;
+  overflow-y: scroll;
+
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+.list-scroll::-webkit-scrollbar {
+  display: none;
+}
