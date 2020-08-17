@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2edc7e8900371715da2b566396d87c1a",
+    "revision": "1e31d788c14bdaf990d7d51963e9501d",
     "url": "/github-follow-me-or-not/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/github-follow-me-or-not/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "612191808fd196593ff0",
-    "url": "/github-follow-me-or-not/static/css/main.5fc7c750.chunk.css"
+    "revision": "e33f87e12ed9eadde4f1",
+    "url": "/github-follow-me-or-not/static/css/main.04ff405f.chunk.css"
   },
   {
     "revision": "36ddf7861b69d25d1952",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/github-follow-me-or-not/static/js/2.be920d1f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "612191808fd196593ff0",
-    "url": "/github-follow-me-or-not/static/js/main.769e7353.chunk.js"
+    "revision": "e33f87e12ed9eadde4f1",
+    "url": "/github-follow-me-or-not/static/js/main.c8defacf.chunk.js"
   },
   {
     "revision": "36cc649a81efb778d5c5",
@@ -32,7 +32,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/github-follow-me-or-not/static/media/github-logo.76d344f0.svg"
   },
   {
-    "revision": "5fa3cc5b7ba22d72da8e3f41dd64adb9",
-    "url": "/github-follow-me-or-not/static/media/octocat.5fa3cc5b.svg"
+    "revision": "a5790d6b90ca010078da0e250243bf80",
+    "url": "/github-follow-me-or-not/static/media/octocat.a5790d6b.svg"
   }
 ]);
