@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/github-follow-me-or-not/static/css/main.556f24ad.chunk.css",
-    "main.js": "/github-follow-me-or-not/static/js/main.8788559e.chunk.js",
-    "main.js.map": "/github-follow-me-or-not/static/js/main.8788559e.chunk.js.map",
+    "main.js": "/github-follow-me-or-not/static/js/main.e8c42fa0.chunk.js",
+    "main.js.map": "/github-follow-me-or-not/static/js/main.e8c42fa0.chunk.js.map",
     "runtime-main.js": "/github-follow-me-or-not/static/js/runtime-main.91de8212.js",
     "runtime-main.js.map": "/github-follow-me-or-not/static/js/runtime-main.91de8212.js.map",
     "static/css/2.11829350.chunk.css": "/github-follow-me-or-not/static/css/2.11829350.chunk.css",
-    "static/js/2.b6653715.chunk.js": "/github-follow-me-or-not/static/js/2.b6653715.chunk.js",
-    "static/js/2.b6653715.chunk.js.map": "/github-follow-me-or-not/static/js/2.b6653715.chunk.js.map",
+    "static/js/2.c9a41c98.chunk.js": "/github-follow-me-or-not/static/js/2.c9a41c98.chunk.js",
+    "static/js/2.c9a41c98.chunk.js.map": "/github-follow-me-or-not/static/js/2.c9a41c98.chunk.js.map",
     "index.html": "/github-follow-me-or-not/index.html",
-    "precache-manifest.5f9a64e69164618f56eed4f769c09b06.js": "/github-follow-me-or-not/precache-manifest.5f9a64e69164618f56eed4f769c09b06.js",
+    "precache-manifest.12a751f2573d23aa60819eb73bcfb47e.js": "/github-follow-me-or-not/precache-manifest.12a751f2573d23aa60819eb73bcfb47e.js",
     "service-worker.js": "/github-follow-me-or-not/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/github-follow-me-or-not/static/css/2.11829350.chunk.css.map",
     "static/css/main.556f24ad.chunk.css.map": "/github-follow-me-or-not/static/css/main.556f24ad.chunk.css.map",
-    "static/js/2.b6653715.chunk.js.LICENSE.txt": "/github-follow-me-or-not/static/js/2.b6653715.chunk.js.LICENSE.txt",
+    "static/js/2.c9a41c98.chunk.js.LICENSE.txt": "/github-follow-me-or-not/static/js/2.c9a41c98.chunk.js.LICENSE.txt",
     "static/media/github-logo.svg": "/github-follow-me-or-not/static/media/github-logo.76d344f0.svg",
     "static/media/octocat.svg": "/github-follow-me-or-not/static/media/octocat.5fa3cc5b.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.91de8212.js",
     "static/css/2.11829350.chunk.css",
-    "static/js/2.b6653715.chunk.js",
+    "static/js/2.c9a41c98.chunk.js",
     "static/css/main.556f24ad.chunk.css",
-    "static/js/main.8788559e.chunk.js"
+    "static/js/main.e8c42fa0.chunk.js"
   ]
 }
