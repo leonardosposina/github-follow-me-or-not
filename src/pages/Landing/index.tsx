@@ -154,27 +154,21 @@ const Landing: React.FC = () => {
         {profile && (
           <>
             <GitHubUser anchorId="profile" profile={profile} />
-            {followers.length !== 0 && (
-              <GitHubContacts
-                title="Followers"
-                anchorId="followers"
-                contacts={followers}
-              />
-            )}
-            {following.length !== 0 && (
-              <>
-                <GitHubContacts
-                  title="Following"
-                  anchorId="following"
-                  contacts={following}
-                />
-                <GitHubContacts
-                  title="Not following back"
-                  anchorId="not-following-back"
-                  contacts={notFollowers}
-                />
-              </>
-            )}
+            <GitHubContacts
+              title="Followers"
+              anchorId="followers"
+              contacts={followers}
+            />
+            <GitHubContacts
+              title="Following"
+              anchorId="following"
+              contacts={following}
+            />
+            <GitHubContacts
+              title="Not following back"
+              anchorId="not-following-back"
+              contacts={notFollowers}
+            />
           </>
         )}
       </Row>
